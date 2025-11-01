@@ -3,7 +3,7 @@
 Carte Éco - HabitTrack Green
 Carte interactive des points de compost
 
-Auteur: Batoul ZORKOT & Laure Charmille
+Auteur: Batoul Zorkot & Laure Charmille
 Date: 2025
 """
 

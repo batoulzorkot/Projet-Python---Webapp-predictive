@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Configuration centralisée de l'application HabitTrack Green
-Auteur: Batoul ZORKOT & Laure Charmille
+Auteur: Batoul Zorkot & Laure Charmille
 Date: 2025
 """
 

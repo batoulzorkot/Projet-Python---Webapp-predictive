@@ -1,4 +1,41 @@
 nom,adresse,latitude,longitude,quartier,horaires,contact,ouvert
-Point Compost Central,123 Rue Verte 75001 Paris,48.8566,2.3522,Centre,Lun-Dim 8h-20h,01 23 45 67 89,True
-Jardin Partagé Nord,45 Avenue Bio 75002 Paris,48.8606,2.3376,Nord,Mar-Sam 9h-18h,01 98 76 54 32,True
-Compost Sud,78 Bd Écolo 75013 Paris,48.832,2.357,Sud,Lun-Ven 7h-19h,01 55 66 77 88,True
+Compost Marais,15 Rue des Archives 75004 Paris,48.8577,2.3570,Marais,Lun-Ven 9h-18h,01 42 77 88 99,True
+Jardin Partagé Belleville,45 Rue de Belleville 75020 Paris,48.8720,2.3877,Belleville,Mar-Sam 10h-17h,01 43 58 65 43,True
+Point Vert Montmartre,28 Rue Lepic 75018 Paris,48.8864,2.3342,Montmartre,Lun-Dim 8h-20h,01 46 06 32 18,True
+Compost République,12 Boulevard du Temple 75011 Paris,48.8636,2.3659,République,Lun-Ven 7h-19h,01 48 05 74 21,True
+Jardin Écolo Bastille,8 Rue de la Roquette 75011 Paris,48.8532,2.3720,Bastille,Mer-Dim 9h-18h,01 47 00 45 67,True
+Point Bio Oberkampf,33 Rue Oberkampf 75011 Paris,48.8641,2.3707,Oberkampf,Lun-Sam 8h-19h,01 43 57 23 89,True
+Compost Nation,25 Avenue de la République 75011 Paris,48.8667,2.3736,Nation,Lun-Ven 9h-17h,01 43 79 88 12,True
+Jardin Partagé Ménilmontant,52 Rue de Ménilmontant 75020 Paris,48.8671,2.3897,Ménilmontant,Mar-Sam 10h-18h,01 46 36 52 74,True
+Point Vert Buttes Chaumont,18 Rue Botzaris 75019 Paris,48.8797,2.3834,Buttes Chaumont,Lun-Dim 7h-20h,01 42 08 96 33,True
+Compost Villette,42 Avenue Corentin Cariou 75019 Paris,48.8937,2.3849,La Villette,Lun-Ven 8h-18h,01 40 35 78 90,True
+Jardin Bio Canal,15 Quai de Valmy 75010 Paris,48.8704,2.3655,Canal St-Martin,Mer-Dim 9h-19h,01 42 01 45 23,True
+Point Compost Gare du Nord,5 Rue de Dunkerque 75010 Paris,48.8808,2.3555,Gare du Nord,Lun-Sam 7h-21h,01 48 78 34 56,True
+Compost Pigalle,22 Rue Victor Massé 75009 Paris,48.8815,2.3384,Pigalle,Mar-Sam 10h-17h,01 48 74 89 12,True
+Jardin Partagé Batignolles,35 Rue Cardinet 75017 Paris,48.8885,2.3133,Batignolles,Lun-Ven 9h-18h,01 43 87 65 43,True
+Point Vert Monceau,8 Boulevard de Courcelles 75008 Paris,48.8799,2.3097,Monceau,Lun-Dim 8h-19h,01 45 63 78 90,True
+Compost Champs-Élysées,12 Avenue Franklin Roosevelt 75008 Paris,48.8698,2.3101,Champs-Élysées,Lun-Ven 7h-20h,01 42 25 89 34,True
+Jardin Bio Invalides,25 Avenue de Tourville 75007 Paris,48.8550,2.3099,Invalides,Mar-Sam 9h-17h,01 47 05 56 78,True
+Point Compost Tour Eiffel,8 Avenue de Suffren 75007 Paris,48.8583,2.2945,Tour Eiffel,Lun-Dim 8h-20h,01 45 55 23 45,True
+Compost Montparnasse,15 Rue de la Gaîté 75014 Paris,48.8396,2.3231,Montparnasse,Lun-Ven 9h-18h,01 43 20 67 89,True
+Jardin Partagé Denfert,22 Avenue René Coty 75014 Paris,48.8337,2.3368,Denfert-Rochereau,Mer-Dim 10h-17h,01 43 21 45 67,True
+Point Vert Butte aux Cailles,35 Rue de la Butte aux Cailles 75013 Paris,48.8277,2.3498,Butte aux Cailles,Mar-Sam 9h-19h,01 45 80 34 56,True
+Compost Bibliothèque,12 Avenue de France 75013 Paris,48.8332,2.3765,Bibliothèque,Lun-Ven 8h-18h,01 53 79 23 45,True
+Jardin Bio Bercy,28 Rue de Bercy 75012 Paris,48.8408,2.3793,Bercy,Lun-Dim 7h-20h,01 43 42 67 89,True
+Point Compost Gare de Lyon,5 Boulevard Diderot 75012 Paris,48.8448,2.3738,Gare de Lyon,Lun-Sam 8h-19h,01 43 43 56 78,True
+Compost Vincennes,42 Cours de Vincennes 75012 Paris,48.8481,2.4089,Vincennes,Mar-Sam 10h-17h,01 43 74 89 12,True
+Jardin Partagé Charonne,18 Rue de Charonne 75011 Paris,48.8537,2.3800,Charonne,Lun-Ven 9h-18h,01 43 71 23 45,True
+Point Vert Père Lachaise,25 Boulevard de Ménilmontant 75020 Paris,48.8614,2.3932,Père Lachaise,Lun-Dim 8h-19h,01 43 58 67 89,True
+Compost Gambetta,8 Avenue Gambetta 75020 Paris,48.8644,2.3981,Gambetta,Lun-Ven 7h-20h,01 43 60 34 56,True
+Jardin Bio Pyrénées,15 Rue des Pyrénées 75020 Paris,48.8556,2.4000,Pyrénées,Mar-Sam 9h-17h,01 43 66 78 90,True
+Point Compost Maraîchers,32 Rue des Maraîchers 75020 Paris,48.8522,2.4071,Maraîchers,Mer-Dim 10h-18h,01 43 72 23 45,True
+Compost Bercy Village,28 Cour Saint-Émilion 75012 Paris,48.8336,2.3853,Bercy Village,Lun-Dim 8h-21h,01 43 40 56 78,True
+Jardin Partagé Reuilly,12 Rue de Reuilly 75012 Paris,48.8412,2.3901,Reuilly,Lun-Ven 9h-18h,01 43 43 89 12,True
+Point Vert Daumesnil,45 Avenue Daumesnil 75012 Paris,48.8389,2.3772,Daumesnil,Mar-Sam 10h-17h,01 43 44 23 45,True
+Compost Picpus,8 Boulevard de Picpus 75012 Paris,48.8444,2.4011,Picpus,Lun-Ven 8h-19h,01 43 43 67 89,False
+Jardin Bio Quinze-Vingts,22 Rue du Faubourg Saint-Antoine 75012 Paris,48.8514,2.3722,Quinze-Vingts,Mer-Dim 9h-18h,01 43 42 34 56,True
+Point Compost Ledru-Rollin,15 Avenue Ledru-Rollin 75012 Paris,48.8499,2.3739,Ledru-Rollin,Lun-Sam 7h-20h,01 43 43 78 90,True
+Compost Bastille Nord,5 Boulevard Beaumarchais 75011 Paris,48.8555,2.3681,Bastille,Lun-Ven 9h-17h,01 48 05 23 45,True
+Jardin Partagé Voltaire,28 Boulevard Voltaire 75011 Paris,48.8580,2.3775,Voltaire,Mar-Sam 10h-18h,01 43 79 56 78,True
+Point Vert Philippe Auguste,12 Avenue Philippe Auguste 75011 Paris,48.8556,2.3926,Philippe Auguste,Lun-Dim 8h-19h,01 43 73 89 12,True
+Compost Père Lachaise Sud,35 Rue de la Réunion 75020 Paris,48.8563,2.3997,Réunion,Lun-Ven 7h-20h,01 43 70 23 45,True

@@ -22,8 +22,7 @@ from utils.habit_manager import sauvegarder_feedback
 st.set_page_config(
     page_title="Retour Utilisateur - HabitTrack Green",
     page_icon="💬",
-    layout="wide"
-)
+    layout="wide")
 
 st.markdown(get_custom_css(), unsafe_allow_html=True)
 
