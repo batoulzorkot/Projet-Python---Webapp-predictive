@@ -94,8 +94,8 @@ with col1:
                 color: white;">
         <div style="font-size: 3em; margin-bottom: 15px;">👨‍💻</div>
         <h3 style="color: white;">Développeurs</h3>
-        <p style="font-size: 1.1em; opacity: 0.95;">[VOS NOMS ICI]</p>
-        <p style="font-size: 1em; opacity: 0.9;">[votre.email@exemple.com]</p>
+        <p style="font-size: 1.1em; opacity: 0.95;">Batoul Zorkot & Laure Charmille</p>
+        <p style="font-size: 1em; opacity: 0.9;">Bbatoulz@outlook.com. & lcharmille@gmail.com</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -109,7 +109,7 @@ with col2:
         <div style="font-size: 3em; margin-bottom: 15px;">💻</div>
         <h3 style="color: white;">Code Source</h3>
         <p style="font-size: 1.1em; opacity: 0.95;">Retrouvez ce projet sur GitHub</p>
-        <p style="font-size: 1em; opacity: 0.9;">[github.com/votre-username]</p>
+        <p style="font-size: 1em; opacity: 0.9;">https://github.com/batoulzorkot/Projet-Python---Webapp-predictive</p>
     </div>
     """, unsafe_allow_html=True)
 
