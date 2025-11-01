@@ -1,0 +1,4 @@
+nom,adresse,latitude,longitude,quartier,horaires,contact,ouvert
+Point Compost Central,123 Rue Verte 75001 Paris,48.8566,2.3522,Centre,Lun-Dim 8h-20h,01 23 45 67 89,True
+Jardin Partagé Nord,45 Avenue Bio 75002 Paris,48.8606,2.3376,Nord,Mar-Sam 9h-18h,01 98 76 54 32,True
+Compost Sud,78 Bd Écolo 75013 Paris,48.832,2.357,Sud,Lun-Ven 7h-19h,01 55 66 77 88,True
